@@ -1,6 +1,6 @@
 # FINAL-PROJECT-COMP340
 
-There are two folders in this repository.
+There are two folders in this zip.
 
 Please use the folder named:
 
